@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="./assets/ebook.png"
+    src="./assets/ebook.jpeg"
     width="400"  
 />
 </p>
